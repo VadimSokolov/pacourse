@@ -19,3 +19,8 @@ library(pacourse)
 plot(sp500$Returns, type='l', col='blue')
 data(package = "pacourse")
 ```
+
+## Large data sets are not part of the package and need to be laoded using the coresponding functions
+```{r}
+uber = pacourse::load_uber()
+```
