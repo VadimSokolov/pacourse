@@ -1,6 +1,6 @@
 # pacourse: Datasets for Predictive Analytics Course
 
-This is an R package that contains collection of datasets used in Predictive Analytics lecrure notes
+This is an R package that contains collection of datasets used in Predictive Analytics lecture notes
 
 ## Installation
 
