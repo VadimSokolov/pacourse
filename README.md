@@ -8,6 +8,7 @@ pacourse is not currently on CRAN, but you can install from github with:
 
 ```{r}
 # install.packages("devtools")
+library(devtools)
 install_github("VadimSokolov/pacourse")
 ```
 
