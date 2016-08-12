@@ -1,0 +1,12 @@
+Package: pacourse
+Type: Package
+Title: Data for Predictive Analytics Book
+Version: 1.0
+Date: 2016-08-12
+Author: Nick polson and Vadim Sokolov
+Maintainer: Vadim Sokolov <vsokolov@gmu.edu>
+Description: The collection of datasets used in Predictive Analytics lecrure notes
+License: GPL-2
+LazyLoad: yes
+LazyData: yes
+NeedsCompilation: no
