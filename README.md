@@ -17,4 +17,5 @@ install_github("VadimSokolov/pacourse")
 ```{r}
 library(pacourse)
 plot(sp500$Returns, type='l', col='blue')
+data(package = "pacourse")
 ```
