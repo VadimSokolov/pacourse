@@ -1,7 +1,7 @@
 \name{superbowl}
 \alias{superbowl}
 \docType{data}
-\title{
+\title{superbowl
 %%   ~~ data name/kind ... ~~
 }
 \description{

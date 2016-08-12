@@ -1,7 +1,7 @@
 \name{house}
 \alias{house}
 \docType{data}
-\title{
+\title{house
 %%   ~~ data name/kind ... ~~
 }
 \description{

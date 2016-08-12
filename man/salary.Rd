@@ -1,7 +1,7 @@
 \name{salary}
 \alias{salary}
 \docType{data}
-\title{
+\title{salary
 %%   ~~ data name/kind ... ~~
 }
 \description{

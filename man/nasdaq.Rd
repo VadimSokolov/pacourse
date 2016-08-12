@@ -1,7 +1,7 @@
 \name{nasdaq}
 \alias{nasdaq}
 \docType{data}
-\title{
+\title{nasdaq
 %%   ~~ data name/kind ... ~~
 }
 \description{

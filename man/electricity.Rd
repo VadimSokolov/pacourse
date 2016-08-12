@@ -1,7 +1,7 @@
 \name{electricity}
 \alias{electricity}
 \docType{data}
-\title{
+\title{electricity
 %%   ~~ data name/kind ... ~~
 }
 \description{

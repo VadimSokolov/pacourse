@@ -1,7 +1,7 @@
 \name{mammals}
 \alias{mammals}
 \docType{data}
-\title{
+\title{mammals
 %%   ~~ data name/kind ... ~~
 }
 \description{

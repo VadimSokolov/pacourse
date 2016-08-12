@@ -1,7 +1,7 @@
 \name{ansc}
 \alias{ansc}
 \docType{data}
-\title{
+\title{ansc
 %%   ~~ data name/kind ... ~~
 }
 \description{

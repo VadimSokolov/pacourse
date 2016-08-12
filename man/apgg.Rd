@@ -1,7 +1,7 @@
 \name{apgg}
 \alias{apgg}
 \docType{data}
-\title{
+\title{apgg
 %%   ~~ data name/kind ... ~~
 }
 \description{

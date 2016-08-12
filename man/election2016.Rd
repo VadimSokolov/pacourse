@@ -1,7 +1,7 @@
 \name{election2016}
 \alias{election2016}
 \docType{data}
-\title{
+\title{election2016
 %%   ~~ data name/kind ... ~~
 }
 \description{

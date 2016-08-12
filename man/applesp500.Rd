@@ -1,7 +1,7 @@
 \name{applesp500}
 \alias{applesp500}
 \docType{data}
-\title{
+\title{applesp500
 %%   ~~ data name/kind ... ~~
 }
 \description{

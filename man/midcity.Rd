@@ -1,7 +1,7 @@
 \name{midcity}
 \alias{midcity}
 \docType{data}
-\title{
+\title{midcity
 %%   ~~ data name/kind ... ~~
 }
 \description{

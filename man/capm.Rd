@@ -1,7 +1,7 @@
 \name{capm}
 \alias{capm}
 \docType{data}
-\title{
+\title{capm
 %%   ~~ data name/kind ... ~~
 }
 \description{

@@ -1,7 +1,7 @@
 \name{load_uber}
 \alias{load_uber}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{load_uber
 %%  ~~function to do ... ~~
 }
 \description{

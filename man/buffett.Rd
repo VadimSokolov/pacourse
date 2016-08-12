@@ -1,7 +1,7 @@
 \name{buffett}
 \alias{buffett}
 \docType{data}
-\title{
+\title{buffett
 %%   ~~ data name/kind ... ~~
 }
 \description{

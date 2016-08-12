@@ -1,7 +1,7 @@
 \name{marketmodel}
 \alias{marketmodel}
 \docType{data}
-\title{
+\title{marketmodel
 %%   ~~ data name/kind ... ~~
 }
 \description{

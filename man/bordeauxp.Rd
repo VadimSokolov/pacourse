@@ -1,7 +1,7 @@
 \name{bordeauxp}
 \alias{bordeauxp}
 \docType{data}
-\title{
+\title{bordeauxp
 %%   ~~ data name/kind ... ~~
 }
 \description{

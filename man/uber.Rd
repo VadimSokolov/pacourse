@@ -1,7 +1,7 @@
 \name{uber}
 \alias{uber}
 \docType{data}
-\title{
+\title{uber
 %%   ~~ data name/kind ... ~~
 }
 \description{

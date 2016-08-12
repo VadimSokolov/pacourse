@@ -1,7 +1,7 @@
 \name{vix2009}
 \alias{vix2009}
 \docType{data}
-\title{
+\title{vix2009
 %%   ~~ data name/kind ... ~~
 }
 \description{

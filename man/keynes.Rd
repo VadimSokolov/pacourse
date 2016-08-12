@@ -1,7 +1,7 @@
 \name{keynes}
 \alias{keynes}
 \docType{data}
-\title{
+\title{keynes
 %%   ~~ data name/kind ... ~~
 }
 \description{
