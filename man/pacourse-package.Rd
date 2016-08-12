@@ -1,25 +1,25 @@
-\name{pabook-package}
-\alias{pabook-package}
-\alias{pabook}
+\name{pacourse-package}
+\alias{pacourse-package}
+\alias{pacourse}
 \docType{package}
 \title{
-\packageTitle{pabook}
+\packageTitle{pacourse}
 }
 \description{
-\packageDescription{pabook}
+\packageDescription{pacourse}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{pabook}
-\packageIndices{pabook}
+\packageDESCRIPTION{pacourse}
+\packageIndices{pacourse}
 ~~ An overview of how to use the package, including the most ~~
 ~~ important functions ~~
 }
 \author{
-\packageAuthor{pabook}
+\packageAuthor{pacourse}
 
-Maintainer: \packageMaintainer{pabook}
+Maintainer: \packageMaintainer{pacourse}
 }
 \references{
 ~~ Literature or other references for background information ~~
