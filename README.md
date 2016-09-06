@@ -1,6 +1,6 @@
 # pacourse: Datasets for Predictive Analytics Course
 
-This is an R package that contains collection of datasets used in Predictive Analytics lecrure notes
+This is an R package that contains collection of datasets used in Predictive Analytics lecture notes
 
 ## Installation
 
@@ -18,4 +18,9 @@ install_github("VadimSokolov/pacourse")
 library(pacourse)
 plot(sp500$Returns, type='l', col='blue')
 data(package = "pacourse")
+```
+
+## Large data sets are not part of the package and need to be laoded using the coresponding functions
+```{r}
+uber = pacourse::load_uber()
 ```
